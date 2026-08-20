@@ -1,0 +1,8 @@
+{
+  "name": "Remix CASTER FOR GEN old",
+  "description": "Generate AI podcasts and high-fidelity video clips for social media with a modern Frosted Glass aesthetic, powered by Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
